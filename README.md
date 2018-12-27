@@ -1,0 +1,2 @@
+# Caping
+Bot caping
